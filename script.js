@@ -57,7 +57,7 @@ const convertValues = async () => {
 
     if (select.value === "US$ Dólar americano") {
         currencyName.innerHTML = "Dólar americano"
-        currencyImg.src = './img/estados-unidos (1) 1.png'
+        currencyImg.src = './img/Estados-Unidos (1) 1.png'
     }
 
 
@@ -71,7 +71,7 @@ const convertValues = async () => {
 
     if (select.value === "₿ Bitcoin") {
         currencyName.innerHTML = "Bitcoin"
-        currencyImg.src = "./img/bitcoin.png"
+        currencyImg.src = "./img/Bitcoin.png"
     }
 
 }
